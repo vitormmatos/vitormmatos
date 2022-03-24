@@ -1,11 +1,11 @@
-### Hi, I'm [Vítor Matos][linkedin]. I'm a Fullstack and Mobile Developer. [<img align="right" alt="Fluttely | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+### Hi, I'm [Vítor Matos][linkedin]. I'm a Fullstack and Mobile Developer. [<img align="right" alt="LinkedIn" width="22px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-4096.png" />][linkedin]
 
 <br>
 
 ---
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormmatos&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormmatos&show_icons=true&theme=radical)
 
 
 ---
@@ -36,7 +36,7 @@
 
 #### Database:
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" style="margin-right: 10px"/>
-<img align="left" alt="MySQL" width="26px" src="https://image.flaticon.com/icons/png/512/528/528260.png" style="margin-right: 5px"/>
+<img align="left" alt="MySQL" width="36px" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" style="margin-right: 5px"/>
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <br><br>
 
@@ -44,13 +44,13 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right: 10px"/>
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" style="margin-right: 10px"/>
 <img align="left" alt="GitHub" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/github-3089487-2567439.png" style="margin-right: 10px"/>
-<img align="left" alt="Sonar" width="75px" src="https://www.sonarsource.com/why-us/about/index/logo-sonarsource.png"/>
+<img align="left" alt="Sonar" width="75px" src="https://www.sonarqube.org/assets/logo-31ad3115b1b4b120f3d1efd63e6b13ac9f1f89437f0cf6881cc4d8b5603a52b4.svg"/>
 <br><br>
 
 ---
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormmatos&langs_count=8)](https://github.com/kevinkobori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormmatos&langs_count=8)](https://github.com/vitormmatos/github-readme-stats)
 
 ---
 <br>
