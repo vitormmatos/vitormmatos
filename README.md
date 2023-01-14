@@ -5,8 +5,7 @@
 ---
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vitormmatos&show_icons=true&theme=radical)
-
+![](https://raw.githubusercontent.com/vitormmatos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ---
 <br>
@@ -54,7 +53,7 @@
 ---
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitormmatos&langs_count=8)](https://github.com/vitormmatos/github-readme-stats)
+![](https://raw.githubusercontent.com/vitormmatos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 <br>
