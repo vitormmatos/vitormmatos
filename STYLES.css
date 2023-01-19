@@ -1,0 +1,20 @@
+.base-logo-props {
+    margin: 5px 0;
+    text-align: left;
+}
+
+.logo {
+    width: 26px;
+}
+
+.mysql-logo {
+    width: 36px;
+}
+
+.sm-margin-right {
+    margin-right: 6px;
+}
+
+.md-margin-right {
+    margin-right: 10px;
+}
