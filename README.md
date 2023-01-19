@@ -64,7 +64,7 @@
 - [iOS][iOS] Developer
 - [English][english-proeficiency] Proeficiency
 
-[linkedin]: https://www.linkedin.com/in/vitor-matos-7979b41b2/
+[linkedin]: https://www.linkedin.com/in/vitormmatos/
 [bachelor]: https://ln2.sync.com/dl/5d1d5ca50/wswqysi6-u4nap6j9-2v56x53f-ynzyg78v/view/default/4918917910011
 [iOS]: https://ln2.sync.com/dl/7ff2ac930/qyv3t73d-4m4q6zh7-ifb5s5kw-a87cwrpw/view/image/4918914280011
 [english-proeficiency]: https://www.efset.org/cert/GUk9nn
