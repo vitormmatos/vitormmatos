@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/vitormmatos/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<main>
+<main style="width: 100%; padding-bottom: 10px;">
+
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" style="margin: 3px"/>
 <img align="left" alt="Go" width="26px" src="https://img.icons8.com/color/452/golang.png" style="margin-right: 3px" />
 <img " alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right: 3px"/>
