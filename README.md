@@ -30,6 +30,7 @@
 
 </main>
 <br>
+
 ---
 
 ![](https://raw.githubusercontent.com/vitormmatos/github-stats/master/generated/languages.svg#gh-dark-mode-only)
